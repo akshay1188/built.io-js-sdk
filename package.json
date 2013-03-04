@@ -1,0 +1,12 @@
+{
+    "name" : "built" ,
+    "description" : "built.io JavaScript SDK" ,
+    "version":"1.0.0",
+    "dependencies": {
+        "restler":"2.0.1"
+    },
+	"homepage":"http://built.io",
+	"engines": {
+		"node": ">= 0.6.x"
+	}
+}
