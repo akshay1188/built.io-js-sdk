@@ -1,4 +1,4 @@
-Built.io JS SDK
+built.io JS SDK
 =======
 
 (C) Raw Engineering, Inc (www.raweng.com) 2013, Licensed under the MIT-LICENSE
